@@ -1,0 +1,6 @@
+C:\Users\guilh\OneDrive\Documentos\GitHub\C# - Desenvolvendo em Camadas\Loja\Modelos\obj\Debug\Modelos.csprojAssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\GitHub\C# - Desenvolvendo em Camadas\Loja\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\GitHub\C# - Desenvolvendo em Camadas\Loja\Modelos\bin\Debug\Modelos.dll
+C:\Users\guilh\OneDrive\Documentos\GitHub\C# - Desenvolvendo em Camadas\Loja\Modelos\bin\Debug\Modelos.pdb
+C:\Users\guilh\OneDrive\Documentos\GitHub\C# - Desenvolvendo em Camadas\Loja\Modelos\obj\Debug\Modelos.dll
+C:\Users\guilh\OneDrive\Documentos\GitHub\C# - Desenvolvendo em Camadas\Loja\Modelos\obj\Debug\Modelos.pdb
