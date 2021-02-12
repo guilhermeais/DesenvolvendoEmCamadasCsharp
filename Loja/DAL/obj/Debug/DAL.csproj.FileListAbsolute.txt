@@ -25,3 +25,12 @@ C:\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.csproj.CoreCompil
 C:\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.dll
 C:\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.pdb
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\DesenvolvendoEmCamadasCsharp\Loja\DAL\bin\Debug\DAL.dll
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\DesenvolvendoEmCamadasCsharp\Loja\DAL\bin\Debug\DAL.pdb
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\DesenvolvendoEmCamadasCsharp\Loja\DAL\bin\Debug\Modelos.dll
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\DesenvolvendoEmCamadasCsharp\Loja\DAL\bin\Debug\Modelos.pdb
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\DesenvolvendoEmCamadasCsharp\Loja\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\DesenvolvendoEmCamadasCsharp\Loja\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\DesenvolvendoEmCamadasCsharp\Loja\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\DesenvolvendoEmCamadasCsharp\Loja\DAL\obj\Debug\DAL.dll
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\DesenvolvendoEmCamadasCsharp\Loja\DAL\obj\Debug\DAL.pdb
