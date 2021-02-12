@@ -42,3 +42,16 @@ C:\Users\Guilherme\Documents\GitHub\Curso Csharp\DesenvolvendoEmCamadasCsharp\Lo
 C:\Users\Guilherme\Documents\GitHub\Curso Csharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\Guilherme\Documents\GitHub\Curso Csharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\obj\Debug\BLL.dll
 C:\Users\Guilherme\Documents\GitHub\Curso Csharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\obj\Debug\BLL.pdb
+C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\bin\Debug\BLL.dll
+C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\bin\Debug\BLL.pdb
+C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\bin\Debug\DAL.dll
+C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\bin\Debug\Modelos.dll
+C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\bin\Debug\DAL.pdb
+C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\bin\Debug\Modelos.pdb
+C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\obj\Debug\BLL.dll
+C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\obj\Debug\BLL.pdb
+C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\bin\Debug\BLL.dll.config
+C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\BLL\bin\Debug\DAL.dll.config

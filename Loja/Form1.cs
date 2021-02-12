@@ -31,7 +31,7 @@ namespace Loja
                 if (form is Clientes)
                 {
                     //Ativa o formulário se ja estiver aberto e retorna 
-                    form.WindowState = FormWindowState.Normal;
+                    form.WindowState = FormWindowState.Maximized;
                     form.Activate();
                     return;
                 }

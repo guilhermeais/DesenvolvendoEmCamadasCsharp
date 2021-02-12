@@ -13,8 +13,7 @@ namespace Loja.DAL
             get
             {
 
-                return "Data Source = (LocalDB)\\MSSQLLocalDB; AttachDbFilename = " 
-                    + "'C:\\Users\\Guilherme\\Documents\\GitHub\\CursoCsharp\\DesenvolvendoEmCamadasCsharp\\Loja\\database\\LOJA.mdf'; Integrated Security= True";
+                return "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Guilherme\\Documents\\GitHub\\CursoCsharp\\DesenvolvendoEmCamadasCsharp\\Loja\\database\\LOJA.mdf;Integrated Security=True;Connect Timeout=30";
 
             }
         }

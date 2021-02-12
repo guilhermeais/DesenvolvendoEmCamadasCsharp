@@ -34,14 +34,22 @@ namespace Loja
             // Atualizando os objetos TextBox
             try
             {
-                txtCod.Text = dtgClientes[0, dtgClientes.CurrentRow.Index].Value.ToString();
-                txtNome.Text = dtgClientes[1, dtgClientes.CurrentRow.Index].Value.ToString();
-                txtEmail.Text = dtgClientes[2, dtgClientes.CurrentRow.Index].Value.ToString();
-                mskTelefone.Text = dtgClientes[3, dtgClientes.CurrentRow.Index].Value.ToString();
-            }
-            catch 
-            {
                 txtEmail.Text = "";
+                txtNome.Text = "";
+                txtEmail.Text = "";
+                mskTelefone.Text = "";
+                if (dtgClientes.CurrentRow != null)
+                {
+                    txtCod.Text = (dtgClientes[0, dtgClientes.CurrentRow.Index].Value.ToString());
+                    txtNome.Text = dtgClientes[1, dtgClientes.CurrentRow.Index].Value.ToString();
+                    txtEmail.Text = dtgClientes[2, dtgClientes.CurrentRow.Index].Value.ToString();
+                    mskTelefone.Text = dtgClientes[3, dtgClientes.CurrentRow.Index].Value.ToString();
+                }
+                
+            }
+            catch
+            {
+                txtCod.Text = "";
                 txtNome.Text = "";
                 txtEmail.Text = "";
                 mskTelefone.Text = "";

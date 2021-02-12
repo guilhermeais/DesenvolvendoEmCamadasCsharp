@@ -127,12 +127,13 @@ namespace Loja.DAL
         {
             DataTable tabela = new DataTable();
 
-            string strSql = "select * Clientes";
+            string strSql = "select * from Clientes";
 
             if (filtro != "")
             {
                 strSql = "select * from Clientes where nome like '%" + filtro + "%'";
             }
+
             SqlDataAdapter da = new SqlDataAdapter(strSql, Dados.StringDeConexao);
             da.Fill(tabela);
 
