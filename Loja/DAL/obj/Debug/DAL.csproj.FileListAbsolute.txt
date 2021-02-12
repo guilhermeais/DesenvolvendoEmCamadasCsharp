@@ -1,0 +1,27 @@
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\bin\Debug\DAL.dll
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\bin\Debug\DAL.pdb
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\bin\Debug\Modelos.dll
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\bin\Debug\Modelos.pdb
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.dll
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.pdb
+C:\Users\Guilherme\Downloads\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\bin\Debug\DAL.dll
+C:\Users\Guilherme\Downloads\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\bin\Debug\DAL.pdb
+C:\Users\Guilherme\Downloads\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\bin\Debug\Modelos.dll
+C:\Users\Guilherme\Downloads\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\bin\Debug\Modelos.pdb
+C:\Users\Guilherme\Downloads\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Guilherme\Downloads\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Downloads\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Guilherme\Downloads\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.dll
+C:\Users\Guilherme\Downloads\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.pdb
+C:\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\bin\Debug\DAL.dll
+C:\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\bin\Debug\DAL.pdb
+C:\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\bin\Debug\Modelos.dll
+C:\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\bin\Debug\Modelos.pdb
+C:\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.dll
+C:\Desenvolvendo-em-Camadas-com-C-Sharp\Loja\DAL\obj\Debug\DAL.pdb

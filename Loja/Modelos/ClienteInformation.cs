@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Loja.Modelos
 {
+    //Classe que representa a tabela Clientes no BD
     public class ClienteInformation
     {
         private int _codigo;
