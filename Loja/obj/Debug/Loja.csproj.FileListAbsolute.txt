@@ -90,7 +90,6 @@ C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loj
 C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\bin\Debug\DAL.pdb
 C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\obj\Debug\Loja.csprojAssemblyReference.cache
 C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\obj\Debug\Loja.Clientes.resources
-C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\obj\Debug\Loja.Form1.resources
 C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\obj\Debug\Loja.Properties.Resources.resources
 C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\obj\Debug\Loja.csproj.GenerateResource.cache
 C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\obj\Debug\Loja.csproj.CoreCompileInputs.cache
@@ -99,3 +98,4 @@ C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loj
 C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\obj\Debug\Loja.pdb
 C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\bin\Debug\BLL.dll.config
 C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\bin\Debug\DAL.dll.config
+C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\obj\Debug\Loja.Loja.resources

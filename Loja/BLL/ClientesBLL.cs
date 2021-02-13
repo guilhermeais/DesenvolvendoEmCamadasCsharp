@@ -15,14 +15,16 @@ namespace Loja.BLL
         // Regra de Négocios para Inserir dados no BD
         public void Inserir(ClienteInformation cliente)
         {
+            // Obriga que o nome tenha algo escrito
             if (cliente.Nome.Trim().Length == 0)
             {
                 throw new Exception("O nome do clinte é obrigatório");
             }
+            // E obriga que o email deve ser em caixa baixa
             cliente.Email = cliente.Email.ToLower();
-
+            // Cria um objeto da camada de acesso ao banco de dados
             ClientesDAL obj = new ClientesDAL();
-
+            // Chama o método da DAL e insere no BD o objeto cliente criado a partir do Modulo que é responspavel por maniupar a tabela clientes
             obj.Inserir(cliente);
         }
         public void Alterar(ClienteInformation cliente)
@@ -52,6 +54,7 @@ namespace Loja.BLL
         public DataTable Listagem(string filtro)
         {
             ClientesDAL obj = new ClientesDAL();
+            
             return obj.Listagem(filtro);
         }
 

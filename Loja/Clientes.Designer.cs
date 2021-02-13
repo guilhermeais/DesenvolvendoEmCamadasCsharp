@@ -44,6 +44,10 @@ namespace Loja
             this.txtFiltro = new System.Windows.Forms.TextBox();
             this.btnFiltrar = new System.Windows.Forms.Button();
             this.txtCod = new System.Windows.Forms.TextBox();
+            this.cCodigo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.cNome = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.cEmail = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.cTelefone = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dtgClientes)).BeginInit();
             this.SuspendLayout();
             // 
@@ -79,15 +83,22 @@ namespace Loja
             // 
             this.dtgClientes.AllowUserToAddRows = false;
             this.dtgClientes.AllowUserToDeleteRows = false;
+            this.dtgClientes.AllowUserToResizeColumns = false;
+            this.dtgClientes.AllowUserToResizeRows = false;
             this.dtgClientes.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dtgClientes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgClientes.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.cCodigo,
+            this.cNome,
+            this.cEmail,
+            this.cTelefone});
             this.dtgClientes.Location = new System.Drawing.Point(21, 176);
             this.dtgClientes.Name = "dtgClientes";
             this.dtgClientes.ReadOnly = true;
             this.dtgClientes.RowHeadersVisible = false;
-            this.dtgClientes.Size = new System.Drawing.Size(384, 210);
+            this.dtgClientes.Size = new System.Drawing.Size(399, 210);
             this.dtgClientes.TabIndex = 3;
             this.dtgClientes.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgClientes_CellClick);
             // 
@@ -174,13 +185,13 @@ namespace Loja
             this.txtFiltro.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtFiltro.Location = new System.Drawing.Point(21, 392);
             this.txtFiltro.Name = "txtFiltro";
-            this.txtFiltro.Size = new System.Drawing.Size(303, 23);
+            this.txtFiltro.Size = new System.Drawing.Size(318, 23);
             this.txtFiltro.TabIndex = 13;
             // 
             // btnFiltrar
             // 
             this.btnFiltrar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.btnFiltrar.Location = new System.Drawing.Point(330, 392);
+            this.btnFiltrar.Location = new System.Drawing.Point(345, 392);
             this.btnFiltrar.Name = "btnFiltrar";
             this.btnFiltrar.Size = new System.Drawing.Size(75, 23);
             this.btnFiltrar.TabIndex = 14;
@@ -196,6 +207,37 @@ namespace Loja
             this.txtCod.ReadOnly = true;
             this.txtCod.Size = new System.Drawing.Size(56, 23);
             this.txtCod.TabIndex = 15;
+            // 
+            // cCodigo
+            // 
+            this.cCodigo.DataPropertyName = "codigo";
+            this.cCodigo.HeaderText = "Código";
+            this.cCodigo.Name = "cCodigo";
+            this.cCodigo.ReadOnly = true;
+            // 
+            // cNome
+            // 
+            this.cNome.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.cNome.DataPropertyName = "nome";
+            this.cNome.HeaderText = "Nome";
+            this.cNome.Name = "cNome";
+            this.cNome.ReadOnly = true;
+            // 
+            // cEmail
+            // 
+            this.cEmail.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.cEmail.DataPropertyName = "email";
+            this.cEmail.HeaderText = "Email";
+            this.cEmail.Name = "cEmail";
+            this.cEmail.ReadOnly = true;
+            // 
+            // cTelefone
+            // 
+            this.cTelefone.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.cTelefone.DataPropertyName = "telefone";
+            this.cTelefone.HeaderText = "Telefone";
+            this.cTelefone.Name = "cTelefone";
+            this.cTelefone.ReadOnly = true;
             // 
             // Clientes
             // 
@@ -243,5 +285,9 @@ namespace Loja
         private System.Windows.Forms.TextBox txtFiltro;
         private System.Windows.Forms.Button btnFiltrar;
         private System.Windows.Forms.TextBox txtCod;
+        private System.Windows.Forms.DataGridViewTextBoxColumn cCodigo;
+        private System.Windows.Forms.DataGridViewTextBoxColumn cNome;
+        private System.Windows.Forms.DataGridViewTextBoxColumn cEmail;
+        private System.Windows.Forms.DataGridViewTextBoxColumn cTelefone;
     }
 }

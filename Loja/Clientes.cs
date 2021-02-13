@@ -68,12 +68,16 @@ namespace Loja
         {
             try
             {
+                // Cria um objeto do modulo de Informações de Clientes que criamos
                 ClienteInformation cliente = new ClienteInformation();
+                //Atribui valores para as propriedades do objeto
                 cliente.Nome = txtNome.Text;
                 cliente.Email = txtEmail.Text;
                 cliente.Telefone = mskTelefone.Text;
 
+                // cria um objeto da camada de Regra de Négocios, que já faz toda verificação para nós e chamda o Inserir da camada DAL
                 ClientesBLL obj = new ClientesBLL();
+                // Chama o inserir do BLL que chama o Inserir do DAL
                 obj.Inserir(cliente);
                 MessageBox.Show("O cliente foi incluido com sucesso!");
                 txtCod.Text = Convert.ToString(cliente.Codigo);
@@ -142,6 +146,7 @@ namespace Loja
         private void btnFiltrar_Click(object sender, EventArgs e)
         {
             ClientesBLL obj = new ClientesBLL();
+            
             dtgClientes.DataSource = obj.Listagem(txtFiltro.Text);
             AtualizaGrid();
         }
@@ -153,6 +158,8 @@ namespace Loja
             txtNome.Text = dtgClientes[1, dtgClientes.CurrentRow.Index].Value.ToString();
             txtEmail.Text = dtgClientes[2, dtgClientes.CurrentRow.Index].Value.ToString();
             mskTelefone.Text = dtgClientes[3, dtgClientes.CurrentRow.Index].Value.ToString();
+
+            // Aqui voce poderia usar DataRowView com DataBoundItem tmb
         }
     }
 }

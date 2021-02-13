@@ -133,7 +133,7 @@ namespace Loja.DAL
             {
                 strSql = "select * from Clientes where nome like '%" + filtro + "%'";
             }
-
+            
             SqlDataAdapter da = new SqlDataAdapter(strSql, Dados.StringDeConexao);
             da.Fill(tabela);
 
