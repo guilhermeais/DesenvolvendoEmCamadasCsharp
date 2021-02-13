@@ -89,6 +89,7 @@
   <ItemGroup>
     <Compile Include="ClientesDAL.cs" />
     <Compile Include="Dados.cs" />
+    <Compile Include="ProdutoDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Loja.DAL
 {
-    class ProdutoDAL
+    public class ProdutoDAL
     {
         public void Inserir(Produtoinformation produto)
         {

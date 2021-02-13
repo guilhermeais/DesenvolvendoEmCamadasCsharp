@@ -33,6 +33,10 @@ namespace Loja
             this.btnLimpar = new System.Windows.Forms.Button();
             this.txtNome = new System.Windows.Forms.TextBox();
             this.dtgClientes = new System.Windows.Forms.DataGridView();
+            this.cCodigo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.cNome = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.cEmail = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.cTelefone = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -44,10 +48,6 @@ namespace Loja
             this.txtFiltro = new System.Windows.Forms.TextBox();
             this.btnFiltrar = new System.Windows.Forms.Button();
             this.txtCod = new System.Windows.Forms.TextBox();
-            this.cCodigo = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.cNome = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.cEmail = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.cTelefone = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dtgClientes)).BeginInit();
             this.SuspendLayout();
             // 
@@ -101,6 +101,37 @@ namespace Loja
             this.dtgClientes.Size = new System.Drawing.Size(399, 210);
             this.dtgClientes.TabIndex = 3;
             this.dtgClientes.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgClientes_CellClick);
+            // 
+            // cCodigo
+            // 
+            this.cCodigo.DataPropertyName = "codigo";
+            this.cCodigo.HeaderText = "Código";
+            this.cCodigo.Name = "cCodigo";
+            this.cCodigo.ReadOnly = true;
+            // 
+            // cNome
+            // 
+            this.cNome.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.cNome.DataPropertyName = "nome";
+            this.cNome.HeaderText = "Nome";
+            this.cNome.Name = "cNome";
+            this.cNome.ReadOnly = true;
+            // 
+            // cEmail
+            // 
+            this.cEmail.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.cEmail.DataPropertyName = "email";
+            this.cEmail.HeaderText = "Email";
+            this.cEmail.Name = "cEmail";
+            this.cEmail.ReadOnly = true;
+            // 
+            // cTelefone
+            // 
+            this.cTelefone.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.cTelefone.DataPropertyName = "telefone";
+            this.cTelefone.HeaderText = "Telefone";
+            this.cTelefone.Name = "cTelefone";
+            this.cTelefone.ReadOnly = true;
             // 
             // label2
             // 
@@ -205,39 +236,8 @@ namespace Loja
             this.txtCod.Location = new System.Drawing.Point(87, 25);
             this.txtCod.Name = "txtCod";
             this.txtCod.ReadOnly = true;
-            this.txtCod.Size = new System.Drawing.Size(56, 23);
+            this.txtCod.Size = new System.Drawing.Size(75, 23);
             this.txtCod.TabIndex = 15;
-            // 
-            // cCodigo
-            // 
-            this.cCodigo.DataPropertyName = "codigo";
-            this.cCodigo.HeaderText = "Código";
-            this.cCodigo.Name = "cCodigo";
-            this.cCodigo.ReadOnly = true;
-            // 
-            // cNome
-            // 
-            this.cNome.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.cNome.DataPropertyName = "nome";
-            this.cNome.HeaderText = "Nome";
-            this.cNome.Name = "cNome";
-            this.cNome.ReadOnly = true;
-            // 
-            // cEmail
-            // 
-            this.cEmail.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.cEmail.DataPropertyName = "email";
-            this.cEmail.HeaderText = "Email";
-            this.cEmail.Name = "cEmail";
-            this.cEmail.ReadOnly = true;
-            // 
-            // cTelefone
-            // 
-            this.cTelefone.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.cTelefone.DataPropertyName = "telefone";
-            this.cTelefone.HeaderText = "Telefone";
-            this.cTelefone.Name = "cTelefone";
-            this.cTelefone.ReadOnly = true;
             // 
             // Clientes
             // 
