@@ -1,4 +1,4 @@
-# Desenvolvendo-em-Camadas-com-C-Sharp 
+# Desenvolvendo em Camadas com C# 
 Projeto prático para aplicar o desenvolvimento em camadas no C# usando três camadas:
 ### DAL - Data Access Layer (Camada de acesso a Dados)
 * Responsável por acessar, alterar, inserir e excluir dados no Banco de dados.
