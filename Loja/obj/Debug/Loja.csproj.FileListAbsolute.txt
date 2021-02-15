@@ -99,3 +99,4 @@ C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loj
 C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\bin\Debug\BLL.dll.config
 C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\bin\Debug\DAL.dll.config
 C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\obj\Debug\Loja.Loja.resources
+C:\Users\Guilherme\Documents\GitHub\CursoCsharp\DesenvolvendoEmCamadasCsharp\Loja\obj\Debug\Loja.Produtos.resources

@@ -43,5 +43,23 @@ namespace Loja
             formulario.MdiParent = this;
             formulario.Show();
         }
+
+        private void produtosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            foreach (Form form in this.MdiChildren)
+            {
+                if ( form is Produtos)
+                {
+                    form.WindowState = FormWindowState.Maximized;
+                    form.Activate();
+                    return;
+                }
+            }
+            Form formulario = new Produtos();
+            this.LayoutMdi(MdiLayout.Cascade);
+            formulario.MdiParent = this;
+            formulario.Show();
+
+        }
     }
 }

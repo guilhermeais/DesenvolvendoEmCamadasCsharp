@@ -34,7 +34,7 @@ namespace Loja
             // Atualizando os objetos TextBox
             try
             {
-                txtEmail.Text = "";
+                txtCod.Text = "";
                 txtNome.Text = "";
                 txtEmail.Text = "";
                 mskTelefone.Text = "";
